@@ -13,7 +13,7 @@
     ```
 - Python 3 with development headers
     ```bash
-    sudo apt-get install python3-dev cmake build-essential
+    sudo apt-get install python3-dev
     ```
 - Build tools (required for _You Complete Me_)
     ```bash
