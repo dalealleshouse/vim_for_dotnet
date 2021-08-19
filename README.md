@@ -59,13 +59,14 @@ git clone git://github.com/nickspoons/vim-sharpenup.git ~/.vim/bundle/vim-sharpe
 ```
 
 # Lint Server
-[ALE](https://github.com/dense-analysis/ale)
+My preference is [ALE](https://github.com/dense-analysis/ale)
 
 ``` bash
 git clone git://github.com/dense-analysis/ale.git ~/.vim/bundle/ale
 ```
 
 # Intellisense
+My preference is [You Complete Me](https://github.com/ycm-core/YouCompleteMe)
 
 ``` bash
 git clone git://github.com/Valloric/YouCompleteMe.git ~/.vim/bundle/YouCompleteMe
@@ -73,4 +74,3 @@ cd ~/.vim/bundle/YouCompleteMe
 git submodule update --init --recursive
 ./install.py
 ```
-
